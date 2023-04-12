@@ -1,7 +1,7 @@
-# Bootcamp_Estatistica
+# Bootcamp_Desafios
 Repositório de desafios executados no Bootcamp Data Analytics
 
--> Notebooks Cursos Alura:
+-> Notebooks Cursos Alura (Estatística):
 
 Curso Estatística Parte 1 - Tipos de Dados, Distribuição de Frequências, Medidas de Tendência Central, Medidas Separatrizes
 
