@@ -1,2 +1,2 @@
 # Bootcamp_Estatistica
-Repositório de desafios estatísticos
+Repositório de desafios executados no Bootcamp Data Analytics
