@@ -1,5 +1,5 @@
-# Bootcamp_Desafios
-Repositório de desafios executados no Bootcamp Data Analytics
+# Data Analytics
+Repositório de notebooks e desafios de Data Analytics
 
 -> Notebooks Cursos Alura (Estatística):
 
