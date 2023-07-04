@@ -10,3 +10,5 @@ Curso Estatística Parte 2 - Distribuições de probabilidade, Amostragem, Estim
 Curso Estatística Parte 3 - Testes de Hipóteses, Testes Paramétricos, Testes Não Paramétricos
 
 Curso Estatística Parte 4 - Regressão Linear e Correlação
+
+Curso Regressão Linear Avançada - Técnicas Avançadas de Modelagem
