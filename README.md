@@ -28,3 +28,12 @@ Repositório de notebooks e desafios de Data Analytics e Machine Learning
 * Curso Regressão Linear - Técnicas Avançadas de Modelagem
 
 * Curso Árvore de Decisão - aprofundando em modelos de Machine Learning
+
+**-> Projetos:**
+
+* Desafio Python Pandas - Primeiros passos
+
+* Desafios Estatística - Aplicação dos conhecimentos adquiridos
+
+* Projeto Consumo de Cerveja - Uso de Regressão Linear para estimar impacto de variáveis no consumo de cerveja
+  
