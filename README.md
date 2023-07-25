@@ -1,5 +1,5 @@
-# Data Analytics
-Repositório de notebooks e desafios de Data Analytics
+# Data Analytics e Machine Learning
+Repositório de notebooks e desafios de Data Analytics e Machine Learning
 
 -> Notebooks Cursos Alura (Estatística):
 
