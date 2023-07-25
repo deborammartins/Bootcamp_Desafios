@@ -11,4 +11,18 @@ Curso Estatística Parte 3 - Testes de Hipóteses, Testes Paramétricos, Testes 
 
 Curso Estatística Parte 4 - Regressão Linear e Correlação
 
-Curso Regressão Linear Avançada - Técnicas Avançadas de Modelagem
+-> Notebooks Cursos Alura (Data Visualization):
+
+Criação de Gráficos com Matplotlib
+
+Explorando com Seaborn
+
+Time Series
+
+-> Notebooks Cursos Alura (Machine Learning):
+
+Curso Regressão com SkLearn - desenvolvimento, previsão e otimização
+
+Curso Regressão Linear - Técnicas Avançadas de Modelagem
+
+Curso Árvore de Decisão - aprofundando em modelos de Machine Learning
